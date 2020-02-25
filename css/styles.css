@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+#body{
+    display: none;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    color: darkgray;
+}
+
+.header1{
+    font-weight: 700;
+    font-size: 300%;
+    padding: 1%;
+}
+
+.subheading{
+    font-size: 150%;
+    padding: 1%;
+}
+
+.subsubheading{
+    font-size: 125%;
+}
+
+#particles-js{
+    height: 100%;
+    background-color: white;
+}
+
+.row{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.section{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-right: 5%;
+    padding-left: 5%;
+    text-align: center;
+}
+
+.landing{
+    padding-top: 10%;
+    width: 100%;
+    height: 80vh;
+}
+
+.nickname{
+    border-bottom: 5px solid #db372b;
+    padding-bottom: 2px;
+}
+
+.littlelink{
+    border-bottom: 2px solid #db372b;
+    padding-bottom: 2px; 
+}
+
+.highlights{
+    color: #db372b;
+}
+
+.links{
+    font-size: 175%;
+    padding-right: 2%;
+    padding-left: 2%;
+    color: black;
+}
+
+.smalllinks{
+    color: black;
+}
+
+.links:hover{
+    transition: 0.1s;
+    opacity: 0.5;
+    cursor: pointer;
+    text-decoration:none;
+    color: #db372b;
+}
+
+.smalllinks:hover{
+    transition: 0.1s;
+    opacity: 0.5;
+    cursor: pointer;
+    text-decoration:none;
+    color: #db372b;
+}
+
+.resumelink:hover{
+    transition: 0.1s;
+    opacity: 0.5;
+    cursor: pointer;
+    text-decoration:none;
+}
+
+.info{
+    font-size: 125%;
+}
+
+.boldinfo{
+    font-weight: 500;
+}
+
+.projectinfo{
+    font-size: 125%;
+}
+
+.blacklink{
+    text-decoration: none;
+    color: black;
+}
+
+.blacklink:hover{
+    text-decoration: none;
+    color: #db372b;
+}
+
+.bigemail{
+    font-size: 200%;
+    font-weight: 500;
+}
+
+.wrapper{
+    margin: auto; 
+    max-width: 100%;
+}
+
+
+
